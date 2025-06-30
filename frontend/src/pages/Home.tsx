@@ -1,3 +1,3 @@
 export function HomePage() {
-  return <p>You should start working here!</p>;
+  return <p className="text-green-400">You should start working here!</p>;
 }
